@@ -3,8 +3,5 @@ logs
 *.log
 npm-debug.log*
 
-# Transpiled code
-lib/
-
 # Dependency directories
 node_modules
